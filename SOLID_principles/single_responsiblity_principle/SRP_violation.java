@@ -1,8 +1,10 @@
 package SOLID_principles.single_responsiblity_principle;
 
-// def : a class should have only one reason to change, meaning it should have only one job or responsibility 
+// def : a class should have only one reason to change, meaning it should have only 
+// one job or responsibility 
 
-// violation SRP : this class has multiple responsibilities (salary calculation & report generation)
+// violation SRP : this class has multiple responsibilities 
+// (salary calculation & report generation)
 class employee {
     private String name;
     private double salary;
