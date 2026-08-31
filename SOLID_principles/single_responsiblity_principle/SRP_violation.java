@@ -1,4 +1,4 @@
-package SOLID_principles.single_responsiblity_principles;
+package SOLID_principles.single_responsiblity_principle;
 
 // def : a class should have only one reason to change, meaning it should have only one job or responsibility 
 

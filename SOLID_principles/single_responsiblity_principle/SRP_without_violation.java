@@ -1,4 +1,4 @@
-package SOLID_principles.single_responsiblity_principles;
+package SOLID_principles.single_responsiblity_principle;
 
 class employee1 {
     private String name;
