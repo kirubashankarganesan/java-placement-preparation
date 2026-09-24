@@ -9,7 +9,7 @@ interface eatable{
     void eat();
     
 }
-class human implements worker,eatable{
+class humans implements worker,eatable{
     public void work(){
         System.out.println("human working...");
     }
